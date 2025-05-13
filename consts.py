@@ -1,0 +1,6 @@
+CELL_WIDTH = 25
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+SCREEN = (1000, 750)
+DELAY = 100
+CAPTION = 'game of life'
